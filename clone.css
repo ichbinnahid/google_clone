@@ -62,6 +62,11 @@ section a {
  padding: 0 45px;
 }   
 
+.search-section input:hover{
+    box-shadow: 1px 1px 8px 5px #dedede;
+    border: transparent;
+}
+
 .s-icon{
     position: absolute;
     top: 23%;
